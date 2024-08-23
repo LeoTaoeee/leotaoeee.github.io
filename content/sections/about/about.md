@@ -1,14 +1,14 @@
 ---
-imageSrc: "../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg"
-imageAlt: "About Gatsby Theme Portfolio Minimal"
+imageSrc: "../../images/prof_headshot.JPG"
+imageAlt: "About Me"
 ---
 
-Portfolio Minimal is a Gatsby Theme that creates outstanding one-pages portfolio within minutes!
+I am a Senior at the University of Michigan studying Math and Computer Science with a minor in history.
 
-It has predefined sections for your bio, skills, projects, and contact details. If you are a writer on Medium, you can integrate your latest articles in a distinct section as well. While building the theme, I tried to keep the setup as simple as possible while keeping everything configurable if you like to.
+I am looking for software Engineering opportunities post-graduation. You can find my portfolio projects in the sections below. Please dont't hesistate to reach out.
 
-Using theme composition, you can easily customize the CSS theme to your own preferences - e.g. change colors, fonts, etc.
+During University, I was very curious about Algebraic Combinatorics and I am in the process of trying to publish my first paper on the subject, of which you can find the arXiv pre-print <a href = "https://arxiv.org/abs/2403.16168"><u> here </u></a>.
 
-Last but not least, it has some cool features you can opt-in to: Dark Mode, Splash Screen, Cookie Banner, and more to find out :)
+On campus, I am the internal director for <a href = "https://uac.umich.edu/mac/"><u> Michigan Quizbowl</u></a> and the treasurer for <a href = "https://maizepages.umich.edu/organization/animeband"><u> Anime Music Band </u> </a>.
 
-Photo by <a href="https://unsplash.com/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>Charles Deluvio</u></a> on Unsplash
+Fun fact, I received a free professional headshot when I ran for university student government, and thats the photo you see on the right.
